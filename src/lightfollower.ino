@@ -20,7 +20,7 @@ int r_speed;
 // PD variables
 int last_error;
 const float kp = 0.4f;
-const float kd = 6.0f;
+const float kd = 2.0f;
 
 void setup()
 {
